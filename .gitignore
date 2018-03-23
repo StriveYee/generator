@@ -1,4 +1,6 @@
 .factorypath
+.idea/
+.iml
 
 # /core/
 /core/.project
@@ -48,3 +50,6 @@
 /core/mybatis-generator-systests-domtests/.settings
 /core/mybatis-generator-systests-domtests/target
 /.project
+/.idea
+/core/.idea
+/core/*.iml
